@@ -1,0 +1,7 @@
+{
+  "name": "Paddy Crop Disease Analyzer",
+  "description": "An AI-powered tool to analyze images of paddy crops, identify diseases, and recommend appropriate treatments and pesticides. Upload an image or use your camera to get an instant diagnosis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
